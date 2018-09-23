@@ -5,3 +5,5 @@ This is the kind of s%$t that repel newcomers from learning Data Science.
 
 mlr.ipynb - Multiple Variable Linear Regression (2 variables, Gradient Descent Optimizer, Mean Sqaured Error)
 data- data.txt
+
+logit.ipynb - Multi Variable Logistic Regression (3 variables, Adam Optimizer, Sigmoid Cost Function)
