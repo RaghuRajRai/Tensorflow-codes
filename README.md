@@ -7,3 +7,4 @@ mlr.ipynb - Multiple Variable Linear Regression (2 variables, Gradient Descent O
 data- data.txt
 
 logit.ipynb - Multi Variable Logistic Regression (3 variables, Adam Optimizer, Sigmoid Cost Function)
+NOTE: use of Tensorflow inbuilt Sigmoid function rather than manual code. *What is "labels"*
